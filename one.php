@@ -1,3 +1,3 @@
 <?php
-include_once("foodrecipe.html"):
+include_once("foodrecipe.html");
 ?>
