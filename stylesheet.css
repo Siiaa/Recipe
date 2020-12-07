@@ -2,7 +2,7 @@
 	padding: 0;
 }
 
-header {background-image: url(../images.png);
+header {background-image:(images.png);
 	height:80vh;
 	background-size: cover;
 	background-position: center;
